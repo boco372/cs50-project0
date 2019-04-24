@@ -1,0 +1,29 @@
+h1 {
+  color:blue;
+  text-align:center;
+}
+ul li {
+  color:green;
+}
+
+th,td {
+  border:2px solid green;
+  padding:15px;
+}
+  #tableblue {
+    color:blue;
+    border:3px solid black;
+    border-collapse:collapse;
+    margin:20px;
+
+  }
+
+  #FreshPrince {
+    color: green;
+    text-align: right;
+  }
+
+  .headers {
+    color:red;
+    text-align:center;
+  }
